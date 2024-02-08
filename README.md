@@ -115,7 +115,3 @@ Create new user in the app and add "isAdmin: true" to corresponding user doc in 
 
 ![seed-data](https://github.com/jp-quintana/react-shopping-cart/assets/87621233/9b3bc7f6-76e2-4fa5-9c5b-b799a8920531)
 Use "dummy-products.json" file in data folder as guide for your own data. At the moment you must add each image manually to the cloud storage as shown above and afterwards add the corresponding links to the json file. Once you've added your data, change file name to "products.json".
-
-## Authors
-
-- [@jp-quintana](https://github.com/jp-quintana)
